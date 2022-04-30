@@ -7,6 +7,7 @@
       * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
+ * [Acknowledgment](#acknowledgment)
 
 # Overview of the Project
 The project is used to generate a random unique password. This project focuses on applying the concepts of HTML, CSS and Javascript.
@@ -41,5 +42,6 @@ The project is used to generate a random unique password. This project focuses o
 * Learned about For loops.
 * Learned about how to choose a random character for password using arrays.
 
-
+## Acknowledgment
+   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
 
