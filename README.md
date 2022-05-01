@@ -24,11 +24,7 @@ The project is used to generate a random unique password. This project focuses o
 
 ### Mobile
 
-![](./images/passwordgeneratormobile.png)
 
-### Output
-
-![](./images/passwordgeneratoroutput.png)
 
 
 ## Technologies I Used
