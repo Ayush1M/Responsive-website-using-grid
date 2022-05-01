@@ -20,9 +20,8 @@ The project is used to generate a random unique password. This project focuses o
 
 #### Desktop
 
-![](./images/passwordgeneratordesktop.png)
 
-### Mobile
+#### Mobile
 
 
 
