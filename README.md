@@ -13,7 +13,7 @@
 The project is used to make a website using grid.
 
 ### Goal of the Project
-* The Goal of this project is to apply grid properties like grid-row/grid-column, grid-gap, grid-areas, minmax, repeat and many more.
+* The Goal of this project is to apply grid properties like grid-row/grid-column, grid-gap, grid-areas, minmax, repeat.
 
 ## Screenshot
 
@@ -30,10 +30,7 @@ The project is used to make a website using grid.
 * CSS
 
 ## What I Learned
-* Learned about DOM.
-* Learned about functions.
-* Learned about For loops.
-* Learned about how to choose a random character for password using arrays.
+* Learned about grid properties.
 
 ## Acknowledgment
    My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
