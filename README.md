@@ -13,7 +13,7 @@
 The project is used to make a website using grid.
 
 ### Goal of the Project
-* The Goal of this project is to apply grid properties like
+* The Goal of this project is to apply grid properties like grid-row/grid-column, grid-gap, grid-areas, minmax, repeat and many more.
 
 ## Screenshot
 
@@ -28,7 +28,6 @@ The project is used to make a website using grid.
 ## Technologies I Used
 * Semantic HTML5
 * CSS
-* Vanilla Javascript
 
 ## What I Learned
 * Learned about DOM.
