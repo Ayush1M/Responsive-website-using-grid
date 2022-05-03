@@ -10,7 +10,7 @@
  * [Acknowledgment](#acknowledgment)
 
 # Overview of the Project
-The project is used to make a website using grid.
+The project is used to make a website using grid properties with a bit of javascript to create a Hamburger menu.
 
 ### Goal of the Project
 * The Goal of this project is to apply grid properties like grid-row/grid-column, grid-gap, grid-areas, minmax, repeat.
@@ -28,6 +28,7 @@ The project is used to make a website using grid.
 ## Technologies I Used
 * Semantic HTML5
 * CSS
+* Javascript
 
 ## What I Learned
 * Learned about grid properties.
