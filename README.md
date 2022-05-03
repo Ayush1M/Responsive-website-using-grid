@@ -10,11 +10,10 @@
  * [Acknowledgment](#acknowledgment)
 
 # Overview of the Project
-The project is used to generate a random unique password. This project focuses on applying the concepts of HTML, CSS and Javascript.
+The project is used to make a website using grid.
 
 ### Goal of the Project
-* The Goal of this project is to generate a random unique password which contains Uppercase, Lowercase, Numbers and Symbols.
-* To apply the JS concepts like for loop, using DOM, functions.
+* The Goal of this project is to apply grid properties like
 
 ## Screenshot
 
