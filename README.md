@@ -1,16 +1,38 @@
-# title(){return this.options.title||this.options.name}
+# Responsive Website using Grid
 
-## Supporting Scrimba
+## Table of Content
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+ * [Overview of the Project](#overview-of-the-project)
+      * [Goal of the project](#goal-of-the-project)
+      * [Screenshot](#screenshot)
+ * [Technologies I Used](#technologies-i-used)
+ * [What I Learned](#what-i-learned) 
+ * [Acknowledgment](#acknowledgment)
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+# Overview of the Project
+The project is used to make a website using grid properties with a bit of javascript to create a Hamburger menu.
 
-	It would also mean the world to us if you share the courses.  
+### Goal of the Project
+* The Goal of this project is to apply grid properties like grid-row/grid-column, grid-gap, grid-areas, minmax, repeat.
 
-Happy Coding!
+## Screenshot
+
+#### Desktop
+
+
+#### Mobile
+
+
+
+
+## Technologies I Used
+* Semantic HTML5
+* CSS
+* Javascript
+
+## What I Learned
+* Learned about grid properties.
+
+## Acknowledgment
+   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
+
