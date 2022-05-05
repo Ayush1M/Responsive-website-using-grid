@@ -19,10 +19,11 @@ The project is used to make a website using grid properties with a bit of javasc
 
 #### Desktop
 
+![](./img/desktop.png)
 
 #### Mobile
 
-
+![](./img/mobile.png)
 
 
 ## Technologies I Used
@@ -34,5 +35,5 @@ The project is used to make a website using grid properties with a bit of javasc
 * Learned about grid properties.
 
 ## Acknowledgment
-   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
+My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
 
